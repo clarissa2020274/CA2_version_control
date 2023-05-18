@@ -1,3 +1,4 @@
 .gitgnore
 .env
 .xlxs
+.DS_Store
