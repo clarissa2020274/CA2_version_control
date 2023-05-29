@@ -4,5 +4,6 @@
  Student ID: 2020274
  
 
- Construction in Ireland - exploring datasets of Planning Permissions Granted for New Houses and Apartments (1975 to 2020)
- and Indices of Total Production in Building and Construction Sector(2000 to 2022) 
+
+Abstract
+This report presents and overview of determined variables to investigate the number of new building permits over the period from 1977 to 2022 for the Irish State and followed by a broader analysis to compare Ireland with four other countries in the Euro Zone in terms of employment in construction, GDP per capita and investment in dwellings. Several techniques of data exploration, cleaning, preparation and visualisation were used to find the adequate statistical distribution patterns for application of Hypothesis Testing and Machine Learning models for the availability of construction workers to provide insights of future increase in workforce demands in the sector the scenario of construction considering Ireland as a base point.
